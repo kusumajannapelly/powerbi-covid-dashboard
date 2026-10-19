@@ -31,10 +31,10 @@ All visuals respond to the slicers, so the dashboard is fully interactive.
 ![COVID Dashboard](images/dashboard.png)
 
 ## Key Insights
-- [Country with the most cases]
-- [Age group with the highest cases]
-- [Which gender had more cases]
-- [Share of vaccinated vs unvaccinated cases]
+- UK and Canada recorded the highest number of cases among all countries.
+- The country with the most cases varies by age group: USA (0-17), South Africa (18-30), France (31-45), and Japan and Australia (46-60).
+- Female patients accounted for more cases than male patients.
+- 30.3% of cases were unvaccinated and 37.3% were fully vaccinated.
 
 ## Tools Used
 Power BI Desktop, Excel
